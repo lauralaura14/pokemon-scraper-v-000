@@ -1,0 +1,2 @@
+ALTER TABLE pokemon
+ADD alter_hp INTEGER DEFAULT (60);
